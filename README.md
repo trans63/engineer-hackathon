@@ -78,4 +78,4 @@ To run this application, execute the following commands:
 - https://ieeexplore.ieee.org/document/8457919
 - https://ethereum.org/en/developers/docs/
 - https://github.com/nomic-io/lotion
-
+-https://www.geeksforgeeks.org/decentralized-voting-system-using-blockchain/
