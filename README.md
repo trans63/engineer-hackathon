@@ -20,11 +20,6 @@ Decyd.io is a blockchain-based voting system, with zero-knowledge proof voter ve
 - ![features](https://user-images.githubusercontent.com/93969295/192134615-ec4aab71-7bee-471e-a4d4-f3b4f3addebd.png)
 
 
-## Cost-effective and scalabilty
-
-- The Web-app will be free for the initial stage to gather the crowd towards it.
-
-
 ## Video Demonstration
 
 https://user-images.githubusercontent.com/93969295/192134599-e2bd7ad8-e695-4a10-878e-f45468bf99db.mp4
@@ -78,5 +73,9 @@ To run this application, execute the following commands:
 3. To tackle the 51% attack challenge, we believe the mining nodes plays an essential role and must be prequified to prevent foreign states' influence to the voting process. We plan to adopt a PoS (proof-of-stake) mechanism for relevant citizens become the mining node or elect their delegate monitor the election on their behalf. We called it "citizen watch". With this design, 51% attacks no longer makes sense.
 - In the future, I also look forward to measuring the impact that truly democratized, decentralized voting has on transparency and accountability, both within small groups and to the system as a whole. We have created some interesting feedback loops through the surveys and functional poll, including connecting with individuals actually working on creating voting systems to increase transparency in countries where this can be an issue.
 
-
+## References
+- https://core.ac.uk/download/pdf/155779036.pdf
+- https://ieeexplore.ieee.org/document/8457919
+- https://ethereum.org/en/developers/docs/
+- https://github.com/nomic-io/lotion
 
